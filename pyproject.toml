@@ -1,0 +1,14 @@
+[project]
+name = "nsf-blacklist"
+version = "0.1.0"
+description = "NSF blacklisted terms"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "toolz>=1.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.7",
+]
