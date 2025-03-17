@@ -14,4 +14,4 @@ dev = [
 ]
 
 [tool.setuptools]
-py-modules = [nsf_blacklist]
+py-modules = ["nsf_blacklist"]
